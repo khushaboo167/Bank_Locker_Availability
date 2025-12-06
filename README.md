@@ -1,2 +1,7 @@
-# Bank_Locker_Availability
-Designed a responsive Locker Management Dashboard component for secure locker allocation, real‑time status, and admin controls.
+# BankLocker
+
+for ng: command not found
+npm install -g @angular/cli
+
+for ngx-charts  install
+npm install @swimlane/ngx-charts --save
